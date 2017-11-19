@@ -8,7 +8,7 @@ using ScrumCermonies.Models;
 
 namespace ScrumCermonies.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : Controller //commemt
     {
         public IActionResult Index()
         {

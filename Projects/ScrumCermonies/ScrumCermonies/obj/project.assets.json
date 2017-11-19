@@ -28529,11 +28529,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shadeegun/Projects/ScrumCermonies/ScrumCermonies/ScrumCermonies.csproj",
+      "projectUniqueName": "/Users/shadeegun/Projects/ScrumCeremonies/Projects/ScrumCermonies/ScrumCermonies/ScrumCermonies.csproj",
       "projectName": "ScrumCermonies",
-      "projectPath": "/Users/shadeegun/Projects/ScrumCermonies/ScrumCermonies/ScrumCermonies.csproj",
+      "projectPath": "/Users/shadeegun/Projects/ScrumCeremonies/Projects/ScrumCermonies/ScrumCermonies/ScrumCermonies.csproj",
       "packagesPath": "/Users/shadeegun/.nuget/packages/",
-      "outputPath": "/Users/shadeegun/Projects/ScrumCermonies/ScrumCermonies/obj",
+      "outputPath": "/Users/shadeegun/Projects/ScrumCeremonies/Projects/ScrumCermonies/ScrumCermonies/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/shadeegun/.config/NuGet/NuGet.Config"

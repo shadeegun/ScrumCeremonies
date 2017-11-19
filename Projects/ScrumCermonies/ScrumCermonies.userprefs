@@ -1,6 +1,7 @@
 ﻿<Properties StartupConfiguration="{750985A1-F138-4FE9-88A2-BB062631A060}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ScrumCermonies Status">
     <Files>
+      <File FileName="ScrumCermonies/Controllers/HomeController.cs" Line="11" Column="55" />
       <File FileName="ScrumCermonies Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
